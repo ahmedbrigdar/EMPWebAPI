@@ -2,7 +2,7 @@
 **Code Chalenge**
 this is the .net Core API application.
 
-## to work as exspected
+## to work as expected
 
 1. Please Create the SQL Database first, located on the main root under EmpEval.API/database/Emp_Eval_database.sql
 2. Change the connection string on the appsetting.json
