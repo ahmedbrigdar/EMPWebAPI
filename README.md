@@ -1,12 +1,13 @@
 # EMPWebAPI
 **Code Chalenge**
 this is the .net Core API application.
-and 
+
 ## to work as exspected
 
-1. Please Install the SQL Database first, located on the main folder under database. 
+1. Please Create the SQL Database first, located on the main root under EmpEval.API/database/Emp_Eval_database.sql
 2. Change the connection string on the appsetting.json
-3. If the client app open in different origin of (http://localhost:4200) you have to added to the appsetting.json "AllowedOrigin":
+3. the client app default url is (http://localhost:4200) if you change it you have to add it to the appsetting.json "AllowedOrigin":
+4. the api default url is http://localhost:30822/api/ if changed please update the client app on the app/services/api.service change the localUrl variable.
 
 
 
