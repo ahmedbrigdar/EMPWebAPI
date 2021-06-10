@@ -1,6 +1,6 @@
 # Employee Evaluation Api
-**Code Chalenge**
-this is the .net Core API application.
+**Code Challenge**
+this is the .net Core 3.1 API application.
 
 ## to work as expected
 
